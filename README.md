@@ -1,6 +1,6 @@
 # Terraform-Azure-Environment-Based-Modules
 
-Simultaneous build of dev, staging and production environment modules along with mutiple resources
+Simultaneous build of dev, staging and production environment modules along with multiple resources
 
 Modules can be found in /environments with dev, staging and production
 
